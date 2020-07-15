@@ -1,0 +1,182 @@
+.maindiv {
+  background: linear-gradient(white, #D3D8E8);
+  width: 100%;
+}
+
+.mansubdiv {
+  margin: auto;
+  height: 572px;
+  width: 980px;
+}
+
+.welcome {
+  width: 565px;
+  float: left;
+}
+
+.welcometext {
+  color: #0e385f;
+  text-align: left;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 29px;
+  margin-top: 40px;
+  width: 450px;
+  word-spacing: -1px;
+}
+
+.welcomepic {
+  width: inherit;
+}
+
+.signupdiv {
+  float: right;
+  margin-left: 350px;
+  line-height: 16px;
+}
+
+.createh1 {
+  font-family: inherit;
+  text-align: left;
+  font-size: 25px;
+  color: #333;
+  font-weight: 600;
+  line-height: 1.34;
+  margin-left: 5px;
+  margin-top: -260px;
+}
+
+.createp {
+  color: #1d2129;
+  text-align: left;
+  margin-left: 5px;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+.signupform {
+  width: 400px;
+}
+
+.signuptextbox::-webkit-input-placeholder {
+  color: #999999;
+}
+
+.namebox {
+  width: 178px;
+  margin: 2px;
+  padding: 3px;
+}
+
+.mobilepw {
+  width: 94%;
+  margin: 2px;
+  padding: 3px;
+}
+
+#birthday {
+  color: #90949c;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin-top: 12px;
+  margin-left: 5px;
+  line-height: 1.34;
+  text-align: left;
+}
+
+.dobdiv {
+  text-align: left;
+  width: 100%;
+}
+
+.dob {
+  margin-bottom: 10px;
+  margin-left: 5px;
+  border: 1px solid #BDC7D8;
+}
+
+.day {
+  width: 58px;
+  margin-right: -5.8px;
+}
+
+.month {
+  width: 71px;
+  margin-right: -5.8px;
+}
+
+.year {
+  width: 63px;
+}
+
+#whydb {
+  margin-left: 5px;
+  font-family: inherit;
+  font-size: 11px;
+  max-width: 150px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+}
+
+.questionmark {
+  background-color: grey;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  text-decoration: none;
+}
+
+#whydbtooltip {
+  height: 141px;
+  width: 312px;
+  background-color: #FFF;
+  border: 1px solid #ACAFB5;
+  visibility: hidden;
+  position: absolute;
+  top: -7px;
+  left: -217%;
+  font-size: 12px;
+  color: #1D2129;
+  padding: 12px 12px 8px 12px;
+  box-shadow: 0 0 6px 1px rgb(143, 143, 143);
+  border-radius: 3px;
+  z-index: 1;
+}
+
+.gender {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+#gendertype {
+  color: #90949c;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 5px;
+  line-height: 1.34;
+  text-align: left;
+}
+
+#femalediv {
+  padding: 5px 0 5px 4px;
+}
+
+#malediv {
+  padding: 5px 0 5px 10px;
+}
+
+#customdiv {
+  padding: 5px 0 5px 10px;
+}
+
+.terms {
+  color: #777;
+  text-align: left;
+  margin-left: 5px;
+  font-size: 10px;
+  width: 316px;
+}
