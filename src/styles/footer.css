@@ -1,0 +1,49 @@
+.footersubdiv {
+  color: #737373;
+  margin: 0 auto;
+  width: 980px;
+  padding-bottom: 30px;
+}
+
+#languagediv {
+  text-align: left;
+  padding-top: 10px;
+}
+
+#languagediv a {
+  color: #385898;
+  text-decoration: none;
+  font-size: 10px;
+  padding: 4px;
+}
+
+#hrfinal {
+  color: #dddfe2;
+
+}
+
+#extralinksdiv {
+  text-align: left;
+}
+
+#extralinksdiv a {
+  color: #385898;
+  text-decoration: none;
+  font-size: 10px;
+  padding: 6px;
+}
+
+#copyrightdiv {
+  text-align: left;
+  padding-top: 10px;
+}
+
+#copyright {
+  font-size: 9px;
+  color: #737373;
+}
+
+#copyrightfblink {
+  text-decoration: none;
+  color: #737373;
+}
